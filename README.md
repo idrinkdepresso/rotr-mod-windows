@@ -9,11 +9,15 @@ By following these steps you will be able to properly install any mods you wish 
 
 ## Injector installation
 1. Make sure you have Beta build 813 installed
-a. Open your steam library
-b. navigate to ROTR
-c. right click ROTR & select properties
-d. navigate to "betas"& select "build813-build813"
-your game should automatically update 
+
+   a. Open your steam library
+   
+   b. Navigate to ROTR
+
+   c. Right click ROTR & select properties
+
+   d. Navigate to "betas"& select "build813-build813"
+   - your game should automatically update 
 2. Download this repository 
 3. Extract the files to your ROTR directory (Steam/steamapps/common/rise of the tomb raider)
 
